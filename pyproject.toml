@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geoapps"
+version = "0.1.0"
+requires-python = ">=3.10.0"
+description = "Pakiet z kodem z zajęć"
+authors = [
+    { name = "Jakub Staszel", email = "jstaszel@agh.edu.pl" }
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+exclude = ["docs", "tests"]

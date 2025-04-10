@@ -61,3 +61,25 @@ nav:
     - ❄️ Wstęp - funkcje: zaj02/funkcje.md
     - ❄️ Funkcje anonimowe - lambda: zaj02/lambda.md
     - ❄️ Generatory: zaj02/generatory.md
+  - Programowanie obiektowe:
+    - 🥕 Wstęp - klasy i instancje: zaj03/klasy.md
+    - 🥕 Po co programować obiektowo?: zaj03/obiektowe_poco.md
+    - 🥕 Dziedziczenie: zaj03/dziedziczenie.md
+    - 🥕 Przeciążanie operatorów: zaj03/przeciazanie.md
+    - 🥕📝 Zadanie - przykład: zaj03/przyklad.md
+    - 🥕 Narzędzia introspekcji: zaj03/introspekcja.md
+    - 🥕 Abstrakcyjne klasy nadrzędne: zaj03/abstrakcyjne.md
+    - 🥕 Atrybuty pseudoprywatne: zaj03/pseudoprywatne.md
+    - 🥕 Rozszerzanie typów wbudowanych: zaj03/wbudowane.md
+    - 🥕 Sloty: zaj03/sloty.md
+    - 🥕 Rodzaje metod: zaj03/metody.md
+    - 🥕📝 Zadania: zaj03/zadania.md
+  - Pakiety: 
+    - 🧰 Konwencja nazewnictwa: zaj04/nazewnictwo.md
+    - 🧰 Zasięgi: zaj04/zasiegi.md
+    - 🧰 Pakiety: zaj04/pakiety.md
+    - 🧰 Prowadzenie dokumentacji: zaj04/dokumentacja.md
+  - Pozostałe elemnty języka:
+    - 🤖 Wyjątki: zaj05/wyjatki.md
+    - 🤖 Menadżery kontekstu: zaj05/menadzery_kontekstu.md
+    - 🤖 Dekoratory: zaj05/dekoratory.md
